@@ -26,4 +26,4 @@ Berikut adalah tangkapan layar (screenshot) dari aplikasi:
 <img src=https://github.com/alpaenf/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE-main/app/src/main/res/drawable/Halaman%20Utama%20App.png width="250">
 
 #### Backapk App
-<img src="https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/Backapk%20App.png?raw=true" width="250">
+<img src=https://github.com/alpaenf/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE-main/app/src/main/res/drawable/Backapk%20App.png width="250">
