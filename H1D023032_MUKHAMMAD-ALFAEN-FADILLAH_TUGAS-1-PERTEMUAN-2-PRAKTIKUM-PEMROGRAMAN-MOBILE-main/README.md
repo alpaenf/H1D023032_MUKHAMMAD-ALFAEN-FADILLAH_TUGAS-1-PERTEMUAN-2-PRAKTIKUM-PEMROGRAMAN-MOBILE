@@ -1,29 +1,39 @@
-# H1D023032_MUKHAMMAD ALFAEN FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE
+# 📱 Tugas 1 - Praktikum Pemrograman Mobile  
 
-**Deskripsi Singkat:**
-Aplikasi ini adalah tugas praktikum untuk mata kuliah Pemrograman Mobile. Aplikasi ini memiliki fitur utama untuk menampilkan informasi tentang Program Studi Informatika di Universitas Jenderal Soedirman.
-
----
-
-### Identitas Diri
-
-- **Nama:** Mukhammad Alfaen Fadillah
-- **NIM:** H1D023032
-- **Shift:** E
-- **Jurusan:** Informatika
-- **Universitas:** Universitas Jenderal Soedirman
+**Nama:** Mukhammad Alfaen Fadillah  
+**NIM:** H1D023032  
+**Shift:** E  
+**Program Studi:** Informatika  
+**Universitas:** Universitas Jenderal Soedirman  
 
 ---
 
-### Tampilan Aplikasi
+## 📖 Deskripsi Aplikasi  
+Proyek ini merupakan Tugas 1 untuk mata kuliah **Pemrograman Mobile**.  
+Aplikasi yang dibuat memiliki fungsi utama untuk menampilkan informasi mengenai **Program Studi Informatika Universitas Jenderal Soedirman**.  
 
-Berikut adalah tangkapan layar (screenshot) dari aplikasi:
+Tujuan pembuatan aplikasi ini adalah:  
+- Melatih keterampilan dasar pengembangan aplikasi Android.  
+- Memahami struktur proyek Android Studio.  
+- Mengimplementasikan layout dan komponen dasar dalam aplikasi.  
 
-#### App Logo
-<img src=https://github.com/alpaenf/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE-main/app/src/main/res/drawable/App%20Logo.png width="250">
+---
 
-#### Halaman Utama App
-<img src=https://github.com/alpaenf/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE-main/app/src/main/res/drawable/Halaman%20Utama%20App.png width="250">
+## 🖼️ Dokumentasi Tampilan  
 
-#### Backapk App
-<img src=https://github.com/alpaenf/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE-main/app/src/main/res/drawable/Backapk%20App.png width="250">
+### 🔹 Logo Aplikasi  
+<img src="https://github.com/alpaenf/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE-main/app/src/main/res/drawable/App%20Logo.png" width="250">  
+
+### 🔹 Halaman Utama  
+<img src="https://github.com/alpaenf/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE-main/app/src/main/res/drawable/Halaman%20Utama%20App.png" width="250">  
+
+### 🔹 Tampilan Backend APK  
+<img src="https://github.com/alpaenf/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/H1D023032_MUKHAMMAD-ALFAEN-FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE-main/app/src/main/res/drawable/Backapk%20App.png" width="250">  
+
+---
+
+## ✅ Kesimpulan  
+Dengan menyelesaikan tugas ini, penulis memperoleh pengalaman dasar dalam membangun aplikasi Android sederhana.  
+Aplikasi yang dibuat dapat menampilkan informasi statis dan memberikan gambaran awal mengenai pengembangan aplikasi mobile berbasis Android.  
+
+---
