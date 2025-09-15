@@ -1,4 +1,4 @@
-# H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE
+# H1D023032_MUKHAMMAD ALFAEN FADILLAH_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE
 
 **Deskripsi Singkat:**
 Aplikasi ini adalah tugas praktikum untuk mata kuliah Pemrograman Mobile. Aplikasi ini memiliki fitur utama untuk menampilkan informasi tentang Program Studi Informatika di Universitas Jenderal Soedirman.
@@ -7,8 +7,8 @@ Aplikasi ini adalah tugas praktikum untuk mata kuliah Pemrograman Mobile. Aplika
 
 ### Identitas Diri
 
-- **Nama:** Fina Julianti
-- **NIM:** H1D023119
+- **Nama:** Mukhammad Alfaen Fadillah
+- **NIM:** H1D023032
 - **Shift:** E
 - **Jurusan:** Informatika
 - **Universitas:** Universitas Jenderal Soedirman
