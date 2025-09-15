@@ -32,8 +32,3 @@ Tujuan pembuatan aplikasi ini adalah:
 
 ---
 
-## ✅ Kesimpulan  
-Dengan menyelesaikan tugas ini, penulis memperoleh pengalaman dasar dalam membangun aplikasi Android sederhana.  
-Aplikasi yang dibuat dapat menampilkan informasi statis dan memberikan gambaran awal mengenai pengembangan aplikasi mobile berbasis Android.  
-
----
